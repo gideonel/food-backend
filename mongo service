@@ -1,0 +1,6 @@
+to start mongodb ---   net start MongoDB
+
+to stop mongodb ---   net stop MongoDB
+
+run in cmd administrative mode
+
